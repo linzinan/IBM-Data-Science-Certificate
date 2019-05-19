@@ -1,1 +1,9 @@
-Business overview
+Problem Description
+
+In this capstone, I will utilize what I have learned in this course to explore a problem that appears to be interesting to me --- We all know that in large cities such as Toronto, NYC and Paris, there is a neighbourhood called "China Town", "J(Japanese) Town" or "little Italy". These neighbourhood are usually largely populated by people and stores originated by the ethic of the name of the place. 
+
+Does "China Town" necessarily have the largest Chinese restaurant density in the city? My motivation comes from my experience living in Markham, a region in the north of Toronto and has a large number of Chinese communities, I would like to find out if Markham can beat "China town" in Toronto in terms of Chinese restaurant numbers and probably quality.
+
+To solve the problem, I will need more data about Markham as I have already explored Toronto in the last section. I will try to cluster neighbourhood based on the density of Chinese restaurants, and will probably look deeper into the quality and reviews of each restaurant.
+
+The audience of my problem could be tourists, locals and the government. If "China Town" does not necessarily represents the largest Chinese community in Toronto, that means there are more places to look at when you fancy a night out in a Chinese restaurant. To expand on my problem, if a region that is entitled by groups of people from somewhere else in the world, does it imply that people are more in favour of going to that area for certain food or merchandise of the designated country? We will have to find out and come to a conclusion after analyzing the data.
